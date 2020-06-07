@@ -1,11 +1,11 @@
 # game-of-life
 Conways game of life in various languages
 
-## Javascript
+### Javascript
 ```node life```
 
-## GoLang
+### GoLang
 ```go run life.go```
 
-## Python
+### Python
 ```python life.py```
