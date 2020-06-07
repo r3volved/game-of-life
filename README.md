@@ -6,3 +6,6 @@ Conways game of life in various languages
 
 ## GoLang
 ```go run life.go```
+
+## Python
+```python life.py```
